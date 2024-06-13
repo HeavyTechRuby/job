@@ -13,7 +13,7 @@
 | Раздел                  | Материал                                       |
 | ----------------------- | ---------------------------------------------- |
 | основы SQL и баз данных | https://postgrespro.ru/docs/postgresql/15/tutorial                                                |
-| основы git              | https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория                                               |
+| основы git              | [https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория](https://proglib.io/p/git-for-half-an-hour)                                               |
 | основы командной строки |                                                |
 
 ## Ruby

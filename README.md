@@ -54,3 +54,12 @@
 - структура резюме
 - самопрезентация
 - ответы на типовые вопросы: самые интересные задачи, что ждете от команды, почему меняете работу
+
+## Материалы
+
+- <https://www.rubykoans.com>
+- <https://www.techotopia.com/index.php/Ruby_Essentials>
+- <http://ruby-doc.com/docs/ProgrammingRuby/>
+- <https://en.wikibooks.org/wiki/Ruby_Programming>
+- <https://docs.ruby-lang.org/en/master/>
+- <https://ruby-doc.org/3.3.3/index.html>

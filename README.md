@@ -12,9 +12,10 @@
 
 | Раздел                  | Материал                                       |
 | ----------------------- | ---------------------------------------------- |
-| основы SQL и баз данных | https://postgrespro.ru/docs/postgresql/15/tutorial                                                |
-| основы git              | <https://proglib.io/p/git-for-half-an-hour>                                               |
-| основы командной строки |                                                |
+| основы SQL и баз данных | https://postgrespro.ru/docs/postgresql/15/tutorial |
+| основы git              | https://proglib.io/p/git-for-half-an-hour          |
+| основы git - практика   | https://githowto.com                               |
+| основы командной строки | https://ru.hexlet.io/courses/cli-basics            |
 
 ## Ruby
 

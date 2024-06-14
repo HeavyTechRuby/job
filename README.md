@@ -31,7 +31,7 @@
 | Модули и миксины                       | https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Classes#Mixing_in_Modules                                      |
 | Объектная модель Ruby                  |                                       |
 | Исключения и их обработка              |                                       |
-| Блоки, Proc и lambda                   |                                       |
+| Блоки, Proc и lambda                   | https://web.archive.org/web/20200722060836/http://rubydev.ru/2010/10/difference-between-proc-and-lambda-in-ruby/ |
 | Идиомы Ruby и хороший стиль            |                                       |
 | Метапрограммирования                   |                                       |
 

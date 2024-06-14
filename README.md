@@ -62,6 +62,7 @@
 | ----------------------- | ---------------------------------------------- |
 | ruby                    | <https://www.rubykoans.com>                                   |
 | основы git              | [https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория](https://sql-academy.org/ru/trainer)  |
+| Основы ActiveRecord запросов | [Миникурс с упражнениями Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying) |
 
 
 

@@ -61,7 +61,8 @@
 | Раздел                  | Материал                                       |
 | ----------------------- | ---------------------------------------------- |
 | ruby                    | <https://www.rubykoans.com>                                   |
-| основы git              | [https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория](https://sql-academy.org/ru/trainer)  |
+| основы git              | [Создание Git-репозитория](https://git-scm.com/book/ru/v2/Основы-Git-Создание-Git-репозитория) |
+| Основы SQL              | [Тренажёр от SQL Academy](https://sql-academy.org/ru/trainer)  |
 
 
 

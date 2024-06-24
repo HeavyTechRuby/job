@@ -76,3 +76,4 @@
 - <https://ru.wikibooks.org/wiki/Ruby>
 - <https://docs.ruby-lang.org/en/master/>
 - <https://ruby-doc.org/3.3.3/index.html>
+- <https://rubyschool.us>

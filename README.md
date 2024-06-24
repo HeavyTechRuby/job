@@ -23,16 +23,14 @@
 | Простые типы данных в Ruby             | https://ru.wikibooks.org/wiki/Ruby/Базовые_типы_данных                                      |
 | Массивы                                | https://ru.wikibooks.org/wiki/Ruby/Подробнее_о_массивах                                      |
 | Хэши                                   | https://ru.wikibooks.org/wiki/Ruby/Подробнее_об_ассоциативных_массивах                                      |
-| Управляющие конструкции                |                                       |
-| Основы объектно-ориентированного программирования |                            |
-| Интерфейсы, наследование и полиморфизм |                                       |
-| Методы класса                          |                                       |
+| Управляющие конструкции                | <https://docs.ruby-lang.org/en/master/syntax/control_expressions_rdoc.html>                                      |
+| Основы объектно-ориентированного программирования | <https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Classes>           |
+| Методы класса                          | <https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Classes>  |
 | Модули и миксины                       | https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Classes#Mixing_in_Modules                                      |
 | Объектная модель Ruby                  |                                       |
-| Исключения и их обработка              |                                       |
-| Блоки, Proc и lambda                   |                                       |
+| Исключения и их обработка              | <https://rubyrush.ru/steps/errors-exceptions> |
+| Блоки, Proc и lambda                   | <https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/>  |
 | Идиомы Ruby и хороший стиль            |                                       |
-| Метапрограммирования                   |                                       |
 
 ## Ruby on Rails
 
@@ -78,5 +76,6 @@
 - <https://www.techotopia.com/index.php/Ruby_Essentials>
 - <http://ruby-doc.com/docs/ProgrammingRuby/>
 - <https://en.wikibooks.org/wiki/Ruby_Programming>
+- <https://ru.wikibooks.org/wiki/Ruby>
 - <https://docs.ruby-lang.org/en/master/>
 - <https://ruby-doc.org/3.3.3/index.html>

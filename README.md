@@ -30,19 +30,16 @@
 | Объектная модель Ruby                  |                                       |
 | Исключения и их обработка              | <https://rubyrush.ru/steps/errors-exceptions> |
 | Блоки, Proc и lambda                   | <https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/>  |
-| Идиомы Ruby и хороший стиль            |                                       |
 
 ## Ruby on Rails
 
-- HTTP-протокол
-- MVC и REST
-- Роутинг
-- Валидация данных
-- Основы баз данных
-- Связи и ассоциации
-- Контроллеры и виды
-- STI
-- Active Record query language
+- [HTTP-протокол](https://practicum.yandex.ru/blog/chto-takoe-protokol-http/)
+- [MVC](https://dev.to/dumebii/model-view-controller-in-rails-a-deep-dive-into-the-mvc-architecture-4oi1)
+- [Роутинг](https://guides.rubyonrails.org/routing.html)
+- [Валидация данных](https://guides.rubyonrails.org/active_record_validations.html)
+- [Связи и ассоциации](https://guides.rubyonrails.org/association_basics.html)
+- [Контроллеры и виды](https://guides.rubyonrails.org/layouts_and_rendering.html)
+- [Active Record query language](https://guides.rubyonrails.org/active_record_basics.html)
 - Скоупы и коллбеки
 - Аутентификация пользователей
 - Twitter Bootstrap
